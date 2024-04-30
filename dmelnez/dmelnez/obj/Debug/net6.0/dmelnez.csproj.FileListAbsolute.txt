@@ -1,0 +1,14 @@
+C:\Users\dmelnez\source\repos\dmelnez\dmelnez\bin\Debug\net6.0\dmelnez.exe
+C:\Users\dmelnez\source\repos\dmelnez\dmelnez\bin\Debug\net6.0\dmelnez.deps.json
+C:\Users\dmelnez\source\repos\dmelnez\dmelnez\bin\Debug\net6.0\dmelnez.runtimeconfig.json
+C:\Users\dmelnez\source\repos\dmelnez\dmelnez\bin\Debug\net6.0\dmelnez.dll
+C:\Users\dmelnez\source\repos\dmelnez\dmelnez\bin\Debug\net6.0\dmelnez.pdb
+C:\Users\dmelnez\source\repos\dmelnez\dmelnez\obj\Debug\net6.0\dmelnez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmelnez\source\repos\dmelnez\dmelnez\obj\Debug\net6.0\dmelnez.AssemblyInfoInputs.cache
+C:\Users\dmelnez\source\repos\dmelnez\dmelnez\obj\Debug\net6.0\dmelnez.AssemblyInfo.cs
+C:\Users\dmelnez\source\repos\dmelnez\dmelnez\obj\Debug\net6.0\dmelnez.csproj.CoreCompileInputs.cache
+C:\Users\dmelnez\source\repos\dmelnez\dmelnez\obj\Debug\net6.0\dmelnez.dll
+C:\Users\dmelnez\source\repos\dmelnez\dmelnez\obj\Debug\net6.0\refint\dmelnez.dll
+C:\Users\dmelnez\source\repos\dmelnez\dmelnez\obj\Debug\net6.0\dmelnez.pdb
+C:\Users\dmelnez\source\repos\dmelnez\dmelnez\obj\Debug\net6.0\dmelnez.genruntimeconfig.cache
+C:\Users\dmelnez\source\repos\dmelnez\dmelnez\obj\Debug\net6.0\ref\dmelnez.dll
